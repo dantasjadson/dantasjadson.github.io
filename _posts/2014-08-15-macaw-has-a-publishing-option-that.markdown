@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Macaw has a publishing option that. 
 layout: post
 tags: [testando, primeiro, post, ]
